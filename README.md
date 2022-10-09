@@ -6,5 +6,5 @@ Welcome to my github page 😎
 
 ### 📩 How to reach me
 
-<a href="catiemcnama@gmail.com"><img src="https://img.shields.io/badge/catiemcnama@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">  </a>
-<a> <img src="https://img.shields.io/badge/Catie McNama-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
+<a href="mailto:catiemcnama@gmail.com"><img src="https://img.shields.io/badge/catiemcnama@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">  </a>
+<a href="https://www.linkedin.com/in/catie-mcnama-b4a1991a5/"> <img src="https://img.shields.io/badge/Catie McNama-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
